@@ -1,0 +1,17 @@
+.input-group-prepend{
+  display: inline-block;
+  width: 250px; 
+}
+
+/*.input-group-prepend > input-group-text{
+  text-align: center;
+}*/
+
+.input-group-text{
+  text-align: center;
+}
+
+input[type="checkbox"]{
+	margin-left: 10px;
+	padding-left: 10px;
+}

@@ -1,0 +1,12 @@
+.input-group-prepend{
+  display: inline-block;
+  width: 150px; 
+}
+
+/*.input-group-prepend > input-group-text{
+  text-align: center;
+}*/
+
+.input-group-text{
+  text-align: center;
+}
